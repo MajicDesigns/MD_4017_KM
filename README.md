@@ -1,6 +1,8 @@
 This is a library to manage the keyswitch matrix implemented using a 4017 as described in the articles at 
+
 * [EDN Design #1](http://www.edn.com/design/power-management/4413677/Connect-a-4-3-matrix-keyboard-to-a-microcontroller-using-two-I-O-pins)
-* [EDN DEsign #2](url:http://www.edn.com/design/components-and-packaging/4408027/Read-10-or-more-switches-using-only-two-I-O-pins-of-a-microcontroller)
+
+* [EDN Design #2](url:http://www.edn.com/design/components-and-packaging/4408027/Read-10-or-more-switches-using-only-two-I-O-pins-of-a-microcontroller)
   
 Using a 4017 IC, this library implements a method for reading many open/closed switches using only three digital I/O pins (Clock, Reset and {"Data_in"}).
 
