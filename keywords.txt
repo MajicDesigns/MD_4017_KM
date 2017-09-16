@@ -10,12 +10,12 @@ MD_4017_KM	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-begin KEYWORD2
-read KEYWORD2
-setDebounceTime KEYWORD2
-setRepeatTime KEYWORD2
+begin	KEYWORD2
+read	KEYWORD2
+setDebounceTime	KEYWORD2
+setRepeatTime	KEYWORD2
 
 ######################################
 # Constants (LITERAL1)
 #######################################
-KEY_NONE LITERAL1
+KEY_NONE	LITERAL1
