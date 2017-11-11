@@ -1,7 +1,11 @@
+# MD_4017_KM
+
+_An more full featured alternative to this library can be found as the MD_UISwitch_4017KM Class in the MD_UISwitch Libray found [here](https://github.com/MajicDesigns/MD_UISwitch)._
+
 This is a library to manage the keyswitch matrix implemented using a 4017 as described in the articles at 
 * [EDN Design #1](http://www.edn.com/design/power-management/4413677/Connect-a-4-3-matrix-keyboard-to-a-microcontroller-using-two-I-O-pins)
 * [EDN Design #2](http://www.edn.com/design/components-and-packaging/4408027/Read-10-or-more-switches-using-only-two-I-O-pins-of-a-microcontroller)
-  
+
 Using a 4017 IC, this library implements a method for reading many open/closed switches using only three digital I/O pins (Clock, Reset and DataIn}).
 
 The library
